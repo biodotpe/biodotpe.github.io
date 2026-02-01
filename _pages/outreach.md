@@ -18,7 +18,7 @@ Do not hesitate to [contact me](mailto:pgpadilla@uc.cl) for scientific outreach 
 * **Biohacking: Experiencias y guía básica para ser un biohacker** | BioTech News (2020)  
     *Role: Podcast Guest* — [Video](https://youtu.be/75KfnRt9ZSY?si=BKv4mD8XYX3l4F_h)
 * **Biohacking in the medical field: perspectives for developing countries** | Association for the Promotion of Open Science in Haiti and French-speaking Africa (2016)  
-    *Role: Guest Speaker* — [Article](https://www.makery.info/en/2017/06/29/lafrique-a-lassaut-du-biohacking-pour-la-sante/) | [Video](https://youtu.be/eueFBhFDYV0?si=jZ8xmXaCad0GWZen)
+    *Role: Guest Speaker* — [Article](https://www.makery.info/en/2017/06/29/lafrique-a-lassaut-du-biohacking-pour-la-sante/), [Video](https://youtu.be/eueFBhFDYV0?si=jZ8xmXaCad0GWZen)
 * **CPMX7 - Open Hardware & DIY Biology** | Campus Party Mexico (2016)  
     *Role: Guest Speaker* — [Video](https://youtu.be/Jm6gGY-8M00?si=4sw8h-hJ0JXrledk)
 * **Do-It-Yourself Biology (DIY BIO) #devHangout 132** | DevAcademy (2016)  
@@ -27,7 +27,7 @@ Do not hesitate to [contact me](mailto:pgpadilla@uc.cl) for scientific outreach 
 ## 📰 Media & Press
 
 * **'Do it yourself', edición coronavirus** | *El Hilo, Radio Ambulante* (2020)  
-    *Role: Podcast Guest* — [Article | Podcast](https://www.npr.org/2020/04/16/836520967/do-it-yourself-edici-n-coronavirus-el-hilo)
+    *Role: Podcast Guest* — [Podcast](https://www.npr.org/2020/04/16/836520967/do-it-yourself-edici-n-coronavirus-el-hilo)
 * **Coronavirus en Perú: especialistas explican las razones de por qué las cabinas desinfectantes no son efectivas** | *El Comercio* (2020)  
     *Role: Technical Opinion* — [Article](https://elcomercio.pe/lima/sucesos/coronavirus-en-peru-especialistas-explican-las-razones-de-por-que-las-cabinas-desinfectantes-no-son-efectivas-noticia/)
 * **Vidas reconstruidas** | *La República* (2020)  
