@@ -4,7 +4,6 @@ title: "Outreach & Community"
 author_profile: true
 redirect_from: 
   - /outreach/
-  - /outreach.html
 ---
 
 I am passionate about the **Do-It-Yourself (DIY) and Open-Source movements**. My mission is to promote **Open Science** within academia and share open-source tools to democratize biological and medical research, especially in developing countries.
