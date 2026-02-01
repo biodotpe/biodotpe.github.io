@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre Padilla Huamantinco"
+title:
 excerpt: "PhD Candidate in Biological and Medical Engineering"
 author_profile: true
 redirect_from: 

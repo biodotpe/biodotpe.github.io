@@ -28,7 +28,7 @@ author:
   pronouns         : "he/him"  
   bio              : "PhD candidate at <a style='color: black;' href='https://ingenieriabiologicaymedica.uc.cl/en'>Institute for Biological and Medical Engineering</a>"
   location         : "Santiago, CL"
-  employer         : "Pontificia Universidad Católica de Chile"
+  employer         : #"Pontificia Universidad Católica de Chile"
   uri              : "https://os-link.vercel.app/"
   email            : "pgpadilla@uc.cl" 
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : "biodotpe"
   lastfm           : # Username
-  linkedin         : "pierrepadilla"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
