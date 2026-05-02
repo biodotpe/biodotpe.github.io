@@ -16,6 +16,9 @@ tags:
 
 # Introduction
 
+**NOTE:** Due to technical issues, this content was not well deployed. Please find the post at this [link](https://biodotpe.github.io/posts/2026/05/can-microfluidics-be-ubiquitous/) 
+
+
 What does it mean that a technology is ubiquitous in science? If you ask an AI agent, such as Gemini, it will answer this means “the technology has transitioned from being a specialized, novel tool to becoming a fundamental, inescapable part of the scientific infrastructure.” If you request a list of ubiquitous scientific hardware, pipettes, centrifuges, balances, microscopes, and computers are among the instruments that are expected to be available in any research lab. Can cutting-edge technologies such as microfluidics become ubiquitous similar to general-purpose instrumentation? Why should microfluidics be ubiquitous in science?
 
 Microfluidics is an interdisciplinary field with a significant role in numerous biological and medical applications. This technology is implemented in channel-based systems known as microfluidic chips, which are commonly made of polymer polydimethylsiloxane (PDMS) using soft lithography but can also be fabricated from polymethyl methacrylate (PMMA), glass, and other materials. In these chips, users can manipulate or process fluid samples, gases, biological entities, and particles in small amounts [1]. This miniaturization reduces cost and reagent consumption and offers the possibility of integrating other laboratory procedures in the same device to perform chemical and biochemical processes [2]. Together with peripheral instruments, users can perform experiments in a high-throughput way, increasing the amount of data available to understand more complex phenomena.
