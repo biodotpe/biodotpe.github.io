@@ -46,11 +46,11 @@ The primary goal is to evaluate the reliability of microfluidic assays when tran
 
 ## 2. Methodology: An 8-Step Framework
 
-The study is designed to move from technical standardization to global data synthesis through the following phases:
+The study is designed in the following phases:
 
 ### Phase I: Technical Foundation
 
-- **Step 1**: Define the "Base Assay." This includes an open CAD design for 3D printing, a manifest of open-source instruments with full calibration guides, a locked list of consumables, and a standardized sample set with defined analytical variables
+- **Step 1**: Define the "Base Assay." This includes an open microfluidic CAD design for 3D printing, a list of open-source instruments with full calibration guides, a locked list of consumables, and a standardized sample set with defined analytical variables
 - **Step 2**: Deployment of a public English-language repository to host all technical documentation, ensuring "one source of truth" for all participants
 
 ### Phase II: Logistics & Recruitment
@@ -73,33 +73,59 @@ The study expects to generate a high-resolution map of where microfluidic protoc
 |--------|------------------|
 | **Inter-Lab Variance** | Low coefficient of variation (CV) in analytical results between North and South labs |
 | **System Accessibility** | Successful fabrication and operation using locally sourced or 3D-printed components |
-| **Cost Efficiency** | A significant reduction in "per-assay" costs compared to proprietary, closed-source systems |
+| **Cost** | Associated costs compared to proprietary, closed-source systems |
 | **Usability Score** | High "Ease of Use" ratings from researchers who did not design the original assay |
 
 # References
+
 [1] Whitesides, G. M. (2006). The origins and the future of microfluidics. Nature, 442(7101), 368–373. https://doi.org/10.1038/nature05058
+
 [2] Chen, L., Yang, C., Xiao, Y., Yan, X., Hu, L., Eggersdorfer, M., Chen, D., Weitz, D. A., & Ye, F. (2021). Millifluidics, microfluidics, and nanofluidics: Manipulating fluids at varying length scales. Materials Today Nano, 16, 100136. https://doi.org/10.1016/j.mtnano.2021.100136
+
 [3] Xia, Y., & Whitesides, G. M. (1998). Soft Lithography. Angewandte Chemie International Edition, 37(5), 550–575. https://doi.org/10.1002/(SICI)1521-3773(19980316)37:5<550::AID-ANIE550>3.0.CO;2-G
+
 [4] McDonald, J.C., Duffy, D.C., Anderson, J.R., Chiu, D.T., Wu, H., Schueller, O.J.A. and Whitesides, G.M. (2000), Fabrication of microfluidic systems in poly(dimethylsiloxane). ELECTROPHORESIS, 21: 27-40. https://doi.org/10.1002/(SICI)1522-2683(20000101)21:1<27::AID-ELPS27>3.0.CO;2-C 
+
 [5] Whitesides, G. M., Ostuni, E., Takayama, S., Jiang, X., & Ingber, D. E. (2001). Soft Lithography in Biology and Biochemistry. Annual Review of Biomedical Engineering, 3(1), 335–373. https://doi.org/10.1146/annurev.bioeng.3.1.335
+
 [6] Sackmann, E. K., Fulton, A. L., & Beebe, D. J. (2014). The present and future role of microfluidics in biomedical research. Nature, 507(7491), 181–189. https://doi.org/10.1038/nature13118 
+
 [7] Araújo Oliveira Alves, L., da Silva Felix, J. H., Menezes Ferreira, A. Á., Barroso dos Santos, M. T., Galvão da Silva, C., Maria Santiago de Castro, L., & Sousa dos Santos, J. C. (2025). Advances and Applications of Micro- and Mesofluidic Systems. ACS Omega. https://doi.org/10.1021/acsomega.4c10999
+
 [8] Microfluidic Mold Service - EDEN TECH. (2026, March 17). EDEN TECH. https://eden-microfluidics.com/microfluidic-mold-service/ 
-‌[9] Ortseifen, V., Viefhues, M., Wobbe, L., & Grünberger, A. (2020). Microfluidics for Biotechnology: Bridging Gaps to Foster Microfluidic Applications. Frontiers in Bioengineering and Biotechnology, 8. https://www.frontiersin.org/articles/10.3389/fbioe.2020.589074
- [10] Heeren, H. van. (2012). Standards for connecting microfluidic devices? Lab on a Chip, 12(6), 1022–1025. https://doi.org/10.1039/C2LC20937C
- [11] Shields IV, C. W., Ohiri, K. A., Szott, L. M., & López, G. P. (2017). Translating microfluidics: Cell separation technologies and their barriers to commercialization. Cytometry Part B: Clinical Cytometry, 92(2), 115–125. https://doi.org/10.1002/cyto.b.21388 
+‌
+[9] Ortseifen, V., Viefhues, M., Wobbe, L., & Grünberger, A. (2020). Microfluidics for Biotechnology: Bridging Gaps to Foster Microfluidic Applications. Frontiers in Bioengineering and Biotechnology, 8. https://www.frontiersin.org/articles/10.3389/fbioe.2020.589074
+
+[10] Heeren, H. van. (2012). Standards for connecting microfluidic devices? Lab on a Chip, 12(6), 1022–1025. https://doi.org/10.1039/C2LC20937C
+
+[11] Shields IV, C. W., Ohiri, K. A., Szott, L. M., & López, G. P. (2017). Translating microfluidics: Cell separation technologies and their barriers to commercialization. Cytometry Part B: Clinical Cytometry, 92(2), 115–125. https://doi.org/10.1002/cyto.b.21388 
+
 [12] Batista, E., Sousa, J. A., Cardoso, S., & Silvério, V. (2020). Experimental testing for metrological traceability and accuracy of liquid microflows and microfluidics. Flow Measurement and Instrumentation, 71, 101691. https://doi.org/10.1016/j.flowmeasinst.2020.101691 
+
 [13] Walp, K. A., Patel, Y. H., Alsadoun, W., Gordon, H. L., Rastaghi, H., & Oliveira, S. M. D. (2024). A Continuous, Low-Flow, and Multiplexing Pumping System for Microfluidics Applications (p. 2024.08.16.608339). bioRxiv. https://doi.org/10.1101/2024.08.16.608339
+
 [14] Akh, L., Jung, D., Frantz, W., Bowman, C., Neu, A. C., & Ding, X. (2023). Microfluidic pumps for cell sorting. Biomicrofluidics, 17(5), 051502. https://doi.org/10.1063/5.0161223
+
 [15] Coşkun, H., Gul, O., Ferhanoglu, O., & Gokdel, Y. D. (2017). Design and Implementation of a Low-Cost High-Performance Syringe Pump System. 2017 21st National Biomedical Engineering Meeting (BIYOMUT), 1–4. https://doi.org/10.1109/BIYOMUT.2017.8478979
+
 [16] Sadegh-cheri, M. (2022). Using the Recycled Parts of a Computer DVD Drive for Fabrication of a Low-Cost Arduino-Based Syringe Pump. Journal of Chemical Education, 99(2), 521–525. https://doi.org/10.1021/acs.jchemed.1c00260
+
 [17] Kalantarifard, A., Alizadeh-Haghighi, E., & Elbuken, C. (2022). A microfluidic droplet system for ultra-monodisperse droplet generation: A universal approach. Chemical Engineering Science, 261, 117947. https://doi.org/10.1016/j.ces.2022.117947
+
 [18] Booeshaghi, A. S., Beltrame, E. da V., Bannon, D., Gehring, J., & Pachter, L. (2019). Principles of open source bioinstrumentation applied to the poseidon syringe pump system. Scientific Reports, 9(1), 12385. https://doi.org/10.1038/s41598-019-48815-9
+
 [19] Park, S. B., & Shin, J. H. (2024). Fully 3D-printed, nonelectric, spring-powered syringe pump for operating microfluidic devices. Sensors and Actuators B: Chemical, 405, 135289. https://doi.org/10.1016/j.snb.2024.135289
+
 [20] Wu, Y., Chen, Y., & Cheng, Y. (2024). Building an Arduino-Based Open-Source Programmable Multichannel Syringe Pump: A Useful Tool for Fluid Delivery in Microfluidics and Flow Chemistry. Journal of Chemical Education, 101(5), 1951–1958. https://doi.org/10.1021/acs.jchemed.4c00033
+
 [21] Metaxiotou, Z., Bissig, H., Batista, E., Ferreira, M. do C., & Timmerman, A. (2023). Metrology in health: Challenges and solutions in infusion therapy and diagnostics. Biomedical Engineering / Biomedizinische Technik, 68(1), 3–12. https://doi.org/10.1515/bmt-2022-0045
+
 [22] Reyes-Hernandez, D. R., & Heeren, H. van. (2019). Proceedings of the First Workshop on Standards for Microfluidics. NIST, 124. https://doi.org/10.6028/jres.124.001
+
 [23] Batista, E., Martins, R. F., Silverio, V., & Godinho, I. (2025). Advancing calibration techniques for accurate micro and nanoflow measurements. Frontiers in Nanotechnology, 7. https://doi.org/10.3389/fnano.2025.1600426
+
 [24] The Microfluidics Association. (2026). Technical reports | The Microfluidics Association. https://microfluidics-association.org/downloads/
+
 [25] International Organization for Standardization. (2025). ISO/TS 6417:2025(en), Microfluidic pumps—Symbols and performance communication. https://www.iso.org/obp/ui/en/#iso:std:iso:ts:6417:ed-1:v1:en
+
 [26] R. Reyes, D., Heeren, H. van, Guha, S., Herbertson, L., P. Tzannis, A., Ducrée, J., Bissig, H., & Becker, H. (2021). Accelerating innovation and commercialization through standardization of microfluidic-based medical devices. Lab on a Chip, 21(1), 9–21. https://doi.org/10.1039/D0LC00963F
