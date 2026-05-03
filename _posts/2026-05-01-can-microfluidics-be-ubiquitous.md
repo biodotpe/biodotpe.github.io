@@ -75,7 +75,7 @@ The study expects to generate a high-resolution map of where microfluidic protoc
 |--------|------------------|
 | **Inter-Lab Variance** | Low coefficient of variation (CV) in analytical results between the North and South labs |
 | **System Accessibility** | Successful fabrication and operation using locally sourced or 3D-printed components |
-| **Cost** | Associated costs compared to proprietary, closed-source systems |
+| **Cost Efficency** | A reduction in "per-assay" costs compared to proprietary, closed-source systems |
 | **Usability Score** | High "Ease of Use" ratings from researchers who did not design the original assay |
 
 # References
