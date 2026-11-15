@@ -5,7 +5,7 @@ date: 2026-05-01
 permalink: /posts/2026/05/can-microfluidics-be-ubiquitous/
 header:
   teaser: " " # Optional: Add a thumbnail image
-categories: 
+categories:
   - Essays
   - Academic Writing
 tags:
@@ -17,7 +17,7 @@ tags:
 What does it mean that a technology is ubiquitous in science? If you ask an AI agent, such as Gemini, it will answer this means
 
 > _“the technology has transitioned from being a specialized, novel tool to becoming a fundamental, inescapable part of the scientific infrastructure.”_
- 
+
  If you request a list of ubiquitous scientific hardware, pipettes, centrifuges, balances, microscopes, and computers are among the instruments that are expected to be available in any research lab. Can cutting-edge technologies, such as microfluidics, become ubiquitous, similar to general-purpose instrumentation? Why should microfluidics be ubiquitous in science?
 
 Microfluidics is an interdisciplinary field with a significant role in numerous biological and medical applications. This technology is implemented in channel-based systems known as _microfluidic chips_, which are commonly made of polymer polydimethylsiloxane (PDMS) using soft lithography but can also be fabricated from polymethyl methacrylate (PMMA), glass, and other materials. In these chips, users can manipulate or process fluid samples, gases, biological entities, and particles in small amounts [1]. This miniaturization reduces costs and reagent consumption and offers the possibility of integrating other laboratory procedures in the same device to perform chemical and biochemical processes [2]. Together with peripheral instruments, users can perform experiments in a high-throughput way, increasing the amount of data available to understand more complex phenomena.
@@ -86,23 +86,23 @@ The study expects to generate a high-resolution map of where microfluidic protoc
 
 [3] Xia, Y., & Whitesides, G. M. (1998). Soft Lithography. Angewandte Chemie International Edition, 37(5), 550–575. https://doi.org/10.1002/(SICI)1521-3773(19980316)37:5<550::AID-ANIE550>3.0.CO;2-G
 
-[4] McDonald, J.C., Duffy, D.C., Anderson, J.R., Chiu, D.T., Wu, H., Schueller, O.J.A. and Whitesides, G.M. (2000), Fabrication of microfluidic systems in poly(dimethylsiloxane). ELECTROPHORESIS, 21: 27-40. https://doi.org/10.1002/(SICI)1522-2683(20000101)21:1<27::AID-ELPS27>3.0.CO;2-C 
+[4] McDonald, J.C., Duffy, D.C., Anderson, J.R., Chiu, D.T., Wu, H., Schueller, O.J.A. and Whitesides, G.M. (2000), Fabrication of microfluidic systems in poly(dimethylsiloxane). ELECTROPHORESIS, 21: 27-40. https://doi.org/10.1002/(SICI)1522-2683(20000101)21:1<27::AID-ELPS27>3.0.CO;2-C
 
 [5] Whitesides, G. M., Ostuni, E., Takayama, S., Jiang, X., & Ingber, D. E. (2001). Soft Lithography in Biology and Biochemistry. Annual Review of Biomedical Engineering, 3(1), 335–373. https://doi.org/10.1146/annurev.bioeng.3.1.335
 
-[6] Sackmann, E. K., Fulton, A. L., & Beebe, D. J. (2014). The present and future role of microfluidics in biomedical research. Nature, 507(7491), 181–189. https://doi.org/10.1038/nature13118 
+[6] Sackmann, E. K., Fulton, A. L., & Beebe, D. J. (2014). The present and future role of microfluidics in biomedical research. Nature, 507(7491), 181–189. https://doi.org/10.1038/nature13118
 
 [7] Araújo Oliveira Alves, L., da Silva Felix, J. H., Menezes Ferreira, A. Á., Barroso dos Santos, M. T., Galvão da Silva, C., Maria Santiago de Castro, L., & Sousa dos Santos, J. C. (2025). Advances and Applications of Micro- and Mesofluidic Systems. ACS Omega. https://doi.org/10.1021/acsomega.4c10999
 
-[8] Microfluidic Mold Service - EDEN TECH. (2026, March 17). EDEN TECH. https://eden-microfluidics.com/microfluidic-mold-service/ 
+[8] Microfluidic Mold Service - EDEN TECH. (2026, March 17). EDEN TECH. https://eden-microfluidics.com/microfluidic-mold-service/
 ‌
 [9] Ortseifen, V., Viefhues, M., Wobbe, L., & Grünberger, A. (2020). Microfluidics for Biotechnology: Bridging Gaps to Foster Microfluidic Applications. Frontiers in Bioengineering and Biotechnology, 8. https://www.frontiersin.org/articles/10.3389/fbioe.2020.589074
 
 [10] Heeren, H. van. (2012). Standards for connecting microfluidic devices? Lab on a Chip, 12(6), 1022–1025. https://doi.org/10.1039/C2LC20937C
 
-[11] Shields IV, C. W., Ohiri, K. A., Szott, L. M., & López, G. P. (2017). Translating microfluidics: Cell separation technologies and their barriers to commercialization. Cytometry Part B: Clinical Cytometry, 92(2), 115–125. https://doi.org/10.1002/cyto.b.21388 
+[11] Shields IV, C. W., Ohiri, K. A., Szott, L. M., & López, G. P. (2017). Translating microfluidics: Cell separation technologies and their barriers to commercialization. Cytometry Part B: Clinical Cytometry, 92(2), 115–125. https://doi.org/10.1002/cyto.b.21388
 
-[12] Batista, E., Sousa, J. A., Cardoso, S., & Silvério, V. (2020). Experimental testing for metrological traceability and accuracy of liquid microflows and microfluidics. Flow Measurement and Instrumentation, 71, 101691. https://doi.org/10.1016/j.flowmeasinst.2020.101691 
+[12] Batista, E., Sousa, J. A., Cardoso, S., & Silvério, V. (2020). Experimental testing for metrological traceability and accuracy of liquid microflows and microfluidics. Flow Measurement and Instrumentation, 71, 101691. https://doi.org/10.1016/j.flowmeasinst.2020.101691
 
 [13] Walp, K. A., Patel, Y. H., Alsadoun, W., Gordon, H. L., Rastaghi, H., & Oliveira, S. M. D. (2024). A Continuous, Low-Flow, and Multiplexing Pumping System for Microfluidics Applications (p. 2024.08.16.608339). bioRxiv. https://doi.org/10.1101/2024.08.16.608339
 
