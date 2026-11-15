@@ -14,9 +14,6 @@ tags:
   - open source hardware
 ---
 
-
-# Enabling access to high-throughput biology through open-source microfluidics
-
 *Why I want to make droplet microfluidics as accessible as 3D printing.*
 
 ---
@@ -47,7 +44,7 @@ I am a [former member](https://openhardware.science/governance-structure/) of th
 
 ## Why droplet microfluidics
 
-Although I was already part of academia, my voice still needed a PhD to be credible. It was also an opportunity to move to a neighboring country, start a new story, and learn a new topic: *droplet microfluidics*. I was lucky that my lab and other people at the Institute already embraced the open-source philosophy.
+Although I was already part of academia, my voice still needed a PhD to be credible. It was also an opportunity to move to a neighboring country, start a new story, and learn a new topic: *droplet microfluidics*. I was lucky that my [lab](https://wenzel-lab.github.io/en/) and [other people](https://federicilab.org/) at the Institute already embraced the open-source philosophy.
 
 For the last five years I have been working to show that combining digital fabrication with open-source electronics can make droplet microfluidics more **accessible, reproducible, and customizable**, perhaps like 3D printing at the beginning of the twenty-first century.
 

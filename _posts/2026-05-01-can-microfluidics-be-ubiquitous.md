@@ -12,8 +12,6 @@ tags:
   - microfluidics
 ---
 
-# Introduction
-
 What does it mean that a technology is ubiquitous in science? If you ask an AI agent, such as Gemini, it will answer this means
 
 > _“the technology has transitioned from being a specialized, novel tool to becoming a fundamental, inescapable part of the scientific infrastructure.”_
